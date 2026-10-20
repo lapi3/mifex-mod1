@@ -1,6 +1,5 @@
-package com.visuals.mod.mixin;
+package net.fabricmc.example;
 
-import com.visuals.mod.SuperVisuals;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ClientPlayNetworkHandler;
 import net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket;
