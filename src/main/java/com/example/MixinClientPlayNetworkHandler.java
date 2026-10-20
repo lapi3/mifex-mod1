@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package com.example;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ClientPlayNetworkHandler;
