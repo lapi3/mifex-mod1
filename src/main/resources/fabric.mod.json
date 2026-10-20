@@ -11,7 +11,7 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.visuals.mod.SuperVisuals"
+      "com.example.SuperVisuals"
     ]
   },
   "mixins": [
