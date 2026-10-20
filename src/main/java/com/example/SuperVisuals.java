@@ -1,4 +1,4 @@
-package com.visuals.mod.mixin;
+package net.fabricmc.example;
 
 import com.visuals.mod.SuperVisuals;
 import net.minecraft.client.Minecraft;
